@@ -65,10 +65,10 @@ a:hover {
 
 @media (max-width: 900px) {
     .head-content {
-        width: 90%;
+        width: 80%;
     }
     
     .content {
-        width: 90%;
+        width: 80%;
     }
 }
